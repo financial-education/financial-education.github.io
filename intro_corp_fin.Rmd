@@ -1,0 +1,64 @@
+---
+title: Intro to Corporate Finance Outline
+output: html_document
+---
+
+## Introduction to Financial Management
+
+[The Goal of Financial Management](https://www.5minutefinance.org/concepts/goal-of-financial-management)
+
+[**Under Construction on GitHub** The Agency Problem](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Corporate_Finance/the_agency_problem/agency_problem.Rmd)
+
+## Financial Statements and Cash Flows
+
+[An Introduction to Financial Statements](https://www.5minutefinance.org/concepts/an-introduction-to-financial-statements)
+
+[The Balance Sheet Identity](https://www.5minutefinance.org/concepts/the-balance-sheet-identity)
+
+[Financial Ratios](https://www.5minutefinance.org/concepts/financial-ratios)
+
+[**Under Construction on GitHub** Firm Growth Rates (SGR and IGR) and EFN](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Corporate_Finance/Growth_rates_and_EFN/growth_rates_and_EFN.Rmd)
+
+[Operating Cash Flow](https://www.5minutefinance.org/concepts/operating-cash-flow)
+
+## Valuation of Cash Flows
+
+[Time Value of Money: Single Cash Flows](https://www.5minutefinance.org/concepts/time-value-of-money-single-cash-flows)
+
+[Time Value of Money: Multiple Cash Flows](https://www.5minutefinance.org/concepts/time-value-of-money-multiple-cash-flows)
+
+[Interest Compounding: EAR and APR](https://www.5minutefinance.org/concepts/interest-compounding)
+
+[Loan Term, Rate, and Payment](https://micfm.shinyapps.io/loan_term_payment_mobile/) *not yet on 5MF*
+
+## Stock and Bond Valuation
+
+[An Introduction to Stock Valuation](https://www.5minutefinance.org/concepts/an-introduction-to-stock-valuation)
+
+[An Introduction to Bond Valuation](https://www.5minutefinance.org/concepts/an-introduction-to-bond-valuation)
+
+## Capital Budgeting
+
+[Net Present Value and Internal Rate of Return](https://www.5minutefinance.org/concepts/net-present-value-and-internal-rate-of-return)
+
+[Modified Internal Rate of Return](https://micfm.shinyapps.io/MIRR) | [Mobile Friendly Version](https://micfm.shinyapps.io/MIRR_mobile) *not yet on 5MF*
+
+[**Under Construction on GitHub** Other Investment Decision Rules](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Corporate_Finance/other_investment_decision_rules/other_investment_decision_rules.Rmd) 
+
+## Risk and Return
+
+[**Under Construction on GitHub**  Historical Risk and Return by Asset Class](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Risk/relative_performance_asset_classes/relative_performace.Rmd)
+
+[The Capital Asset Pricing Model](https://www.5minutefinance.org/concepts/the-capital-asset-pricing-model)
+
+## Capital Market Financing
+
+[Weighted-Average Cost of Capital](https://www.5minutefinance.org/concepts/the-weighted-average-cost-of-capital)
+
+[Capital Structure](https://www.5minutefinance.org/concepts/capital-structure)
+
+[The Modigliani and Miller Propositions](https://www.5minutefinance.org/concepts/modigliani-and-miller-propositions)
+
+[Dividends](https://www.5minutefinance.org/concepts/dividends)
+
+[**Under Construction on GitHub**  Stock Splits](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Equity/stock_splits/stock_splits.Rmd)

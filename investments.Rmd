@@ -1,0 +1,87 @@
+---
+title: Investments
+output: html_document
+---
+
+
+## How Securities Trading Works 
+
+[The Limit Order Book](http://www.5minutefinance.org/concepts/the-limit-order-book)
+
+[Short Selling Stock](https://www.5minutefinance.org/concepts/short-selling-stock)
+
+[**Under Construction on GitHub** Trading on Margin](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Trading_and_Market_Structure/Margin/margin.Rmd)
+
+[Market Depth](https://matt-brigida.github.io/fin_532_market_depth/)
+
+## Equity
+
+[Intro to Stock Investments](https://www.5minutefinance.org/concepts/an-introduction-to-stock-investments)
+
+[Intro Stock Markets](https://www.5minutefinance.org/concepts/an-introduction-stock-markets)
+
+[ETFs](https://www.5minutefinance.org/concepts/exchange-traded-funds)
+
+[Leveraged ETFs](https://www.5minutefinance.org/concepts/leveraged-exchange-traded-funds)
+
+## Debt
+
+[Duration](https://www.5minutefinance.org/concepts/duration)
+
+[Convexity](https://www.5minutefinance.org/concepts/convexity)
+
+[What is YTM?](https://www.5minutefinance.org/concepts/for-what-is-the-yield-to-maturity-used)
+
+[ETNs](https://www.5minutefinance.org/concepts/exchange-traded-notes)
+
+## Options
+
+[Black-Scholes](http://www.5minutefinance.org/concepts/black-scholes)
+
+[Intro to Stock Options](https://www.5minutefinance.org/concepts/an-introduction-to-stock-options)
+
+[Intro to Option and Stock Strategies](https://www.5minutefinance.org/concepts/an-introduction-to-option-and-stock-strategies)
+
+[**Under Construction on GitHub** Option Straddles](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/option_straddle/option_straddle.Rmd)
+
+[The Greeks](https://www.5minutefinance.org/concepts/the-greeks)
+
+[**Under Construction on GitHub** Binomial Option Pricing](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/binomial_option_pricing/binomial_option_pricing.Rmd)
+
+[Varying Option Volatility](https://www.5minutefinance.org/concepts/varying-option-volatility)
+
+[**Under Construction on GitHub** Time-Varying Option Volatility](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/time_varying_IV/stoch_vol.Rmd)
+
+[Pricing via Monte Carlo](https://www.5minutefinance.org/concepts/an-introduction-to-the-uses-of-monte-carlo-methods-in-finance)
+
+## Futures
+
+[**Under Construction on GitHub** Intro to Futures and Hedging](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Derivatives/Futures_Intro/intro_futures.Rmd)
+
+[**Under Construction on GitHub** Futures Pricing](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Derivatives/Pricing_Futures/pricing_futures.Rmd)
+
+[**Under Construction on GitHub** Creating Futures from Options](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/creating_futures_with_options/creating_futures_with_options.Rmd)
+
+## Swaps
+
+[**Under Construction on GitHub** Interest Rate Swaps](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Derivatives/Interest_Rate_Swaps/IRS.Rmd)
+
+## Portfolio Theory
+
+[Intro to the Correlation Coefficient](https://www.5minutefinance.org/concepts/an-introduction-to-correlation-coefficient)
+
+[Mean-Variance Portfolio Optimization](https://www.5minutefinance.org/concepts/mean-variance-portfolio-optimization)
+
+[Portfolio Performance Measures](http://www.5minutefinance.org/concepts/an-introduction-to-portfolio-performance-measures)
+
+[The Capital Asset Pricing Model](https://www.5minutefinance.org/concepts/the-capital-asset-pricing-model)
+
+[The Pairs Trade](https://www.5minutefinance.org/concepts/the-pairs-trade)
+
+## Commodity Markets
+
+[Cross Hedging](https://www.5minutefinance.org/concepts/cross-hedging)
+
+[Crude Oil Markets](https://www.5minutefinance.org/concepts/crude-oil-markets)
+
+[**Under Construction on GitHub** Natural Gas Markets](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Commodities/nat_gas_markets/nat_gas_markets.Rmd)
