@@ -1,7 +1,7 @@
 name: "Financial Education"
 output_dir: "."
 navbar:
-  title: "Financial Education MAterials"
+  title: "Financial Education Materials"
   icon: fa-home
   left:
     - text: "Courses"
