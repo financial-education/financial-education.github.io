@@ -29,7 +29,7 @@ output: html_document
 
 [Interest Compounding: EAR and APR](https://www.5minutefinance.org/concepts/interest-compounding)
 
-[Loan Term, Rate, and Payment](https://micfm.shinyapps.io/loan_term_payment_mobile/) *not yet on 5MF*
+[Loan Term, Rate, and Payment](https://financialmarkets.github.io/5mf_loan_term_vs_payment/)
 
 ## Stock and Bond Valuation
 
