@@ -43,7 +43,7 @@ output: html_document
 
 [Modified Internal Rate of Return](https://micfm.shinyapps.io/MIRR) | [Mobile Friendly Version](https://micfm.shinyapps.io/MIRR_mobile) *not yet on 5MF*
 
-[**Under Construction on GitHub** Other Investment Decision Rules](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Corporate_Finance/other_investment_decision_rules/other_investment_decision_rules.Rmd) 
+[Other Investment Decision Rules](https://financialmarkets.github.io/5mf_other_investment_decision_rules/)
 
 ## Risk and Return
 
