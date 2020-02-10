@@ -7,7 +7,9 @@ output: html_document
 
 [The Goal of Financial Management](https://www.5minutefinance.org/concepts/goal-of-financial-management)
 
-[**Under Construction on GitHub** The Agency Problem](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Corporate_Finance/the_agency_problem/agency_problem.Rmd)
+[**Under Construction** The Agency Problem](https://financial-education.github.io/agency-problem-org/)
+
+<!-- (https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Corporate_Finance/the_agency_problem/agency_problem.Rmd) -->
 
 ## Financial Statements and Cash Flows
 
@@ -29,7 +31,7 @@ output: html_document
 
 [Saving for Retirement](https://financial-education.github.io/saving_for_retirement)
 
-[Interest Compounding: EAR and APR](https://www.5minutefinance.org/concepts/interest-compounding)
+[Interest Compounding: EAR and APR](https://www.5minutefinance.org/concepts/interest-compounding) | [Revealjs version](https://financialmarkets.github.io/5mf_apr_ear/)
 
 [Loan Term, Rate, and Payment](https://financialmarkets.github.io/5mf_loan_term_vs_payment/)
 
