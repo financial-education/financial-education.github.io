@@ -38,6 +38,8 @@ output: html_document
 
 [Black-Scholes](http://www.5minutefinance.org/concepts/black-scholes)
 
+[Single Period Binomial Option Pricing](https://financial-education.github.io/single_period_binomial_option_pricing)
+
 [Intro to Stock Options](https://www.5minutefinance.org/concepts/an-introduction-to-stock-options)
 
 [Intro to Option and Stock Strategies](https://www.5minutefinance.org/concepts/an-introduction-to-option-and-stock-strategies)
