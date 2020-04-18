@@ -63,7 +63,7 @@ output: html_document
 
 [Weighted-Average Cost of Capital](https://www.5minutefinance.org/concepts/the-weighted-average-cost-of-capital)
 
-[Capital Structure](https://www.5minutefinance.org/concepts/capital-structure)
+[Capital Structure](https://www.5minutefinance.org/concepts/capital-structure) | [Newer RevealJS Version](https://matt-brigida.github.io/5mf-capital-structure/)
 
 [The Modigliani and Miller Propositions](https://www.5minutefinance.org/concepts/modigliani-and-miller-propositions)
 
