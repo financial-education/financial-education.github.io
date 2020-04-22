@@ -64,6 +64,10 @@ output: html_document
 
 ## Futures
 
+[Introduction to Futures Markets](https://financial-education.github.io/intro_futures_rtf/)
+
+[Futures Spreads](https://financial-education.github.io/Futures_Spreads/)
+
 [**Under Construction on GitHub** Intro to Futures and Hedging](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Derivatives/Futures_Intro/intro_futures.Rmd)
 
 [**Under Construction on GitHub** Futures Pricing](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Derivatives/Pricing_Futures/pricing_futures.Rmd)
