@@ -7,7 +7,7 @@ output: html_document
 
 ## Introduction to Financial Management
 
-[The Goal of Financial Management](https://www.5minutefinance.org/concepts/goal-of-financial-management)
+[The Goal of Financial Management](https://www.5minutefinance.org/concepts/goal-of-financial-management) | [Revealjs_version](https://financial-education.github.io/the_goal_of_financial_management/)
 
 [The Agency Problem](https://financial-education.github.io/agency-problem-org/)
 
