@@ -3,11 +3,13 @@ title: Intro to Corporate Finance Outline
 output: html_document
 ---
 
+[Course Overview]()
+
 ## Introduction to Financial Management
 
 [The Goal of Financial Management](https://www.5minutefinance.org/concepts/goal-of-financial-management)
 
-[**Under Construction** The Agency Problem](https://financial-education.github.io/agency-problem-org/)
+[The Agency Problem](https://financial-education.github.io/agency-problem-org/)
 
 <!-- (https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Corporate_Finance/the_agency_problem/agency_problem.Rmd) -->
 
