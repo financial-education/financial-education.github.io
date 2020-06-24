@@ -21,9 +21,11 @@ output: html_document
 
 [The Balance Sheet Identity](https://www.5minutefinance.org/concepts/the-balance-sheet-identity)
 
+[Financial Statements and Cash Flow---In Progress](https://financial-education.github.io/financial_statements_and_cash_flow/)
+
 [Financial Ratios](https://www.5minutefinance.org/concepts/financial-ratios)
 
-[**Under Construction on GitHub** Firm Growth Rates (SGR and IGR) and EFN](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Corporate_Finance/Growth_rates_and_EFN/growth_rates_and_EFN.Rmd)
+[Firm Growth Rates (SGR and IGR) and EFN](https://financial-education.github.io/growth_rates_and_EFN/)
 
 [Operating Cash Flow](https://www.5minutefinance.org/concepts/operating-cash-flow)
 
