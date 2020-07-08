@@ -21,15 +21,16 @@ output: html_document
 
 [An Introduction to Financial Statements](https://www.5minutefinance.org/concepts/an-introduction-to-financial-statements)
 
+[Financial Statements and Cash Flow---In Progress](https://financial-education.github.io/financial_statements_and_cash_flow/)
+
 [The Balance Sheet Identity](https://www.5minutefinance.org/concepts/the-balance-sheet-identity)
 
-[Financial Statements and Cash Flow---In Progress](https://financial-education.github.io/financial_statements_and_cash_flow/)
+[Operating Cash Flow](https://www.5minutefinance.org/concepts/operating-cash-flow)
 
 [Financial Ratios](https://www.5minutefinance.org/concepts/financial-ratios)
 
 [Firm Growth Rates (SGR and IGR) and EFN](https://financial-education.github.io/growth_rates_and_EFN/)
 
-[Operating Cash Flow](https://www.5minutefinance.org/concepts/operating-cash-flow)
 
 ## Valuation of Cash Flows
 
