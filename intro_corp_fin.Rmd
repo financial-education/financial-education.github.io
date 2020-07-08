@@ -5,6 +5,8 @@ output: html_document
 
 [Course Overview]()
 
+[Practice Problems](https://financial-education.github.io/practice_problems_intro_corporate_finance)
+
 ## Introduction to Financial Management
 
 [The forms of Business Organization](https://financial-education.github.io/forms_of_business_organization/)
