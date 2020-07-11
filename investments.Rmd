@@ -14,6 +14,8 @@ output: html_document
 
 [Market Depth](https://matt-brigida.github.io/fin_532_market_depth/)
 
+[Payment for Order Flow](https://financial-education.github.io/payment_for_order_flow/)
+
 ## Equity
 
 [Intro to Stock Investments](https://www.5minutefinance.org/concepts/an-introduction-to-stock-investments)
