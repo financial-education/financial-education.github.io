@@ -42,6 +42,8 @@ output: html_document
 
 [Interest Compounding: EAR and APR](https://www.5minutefinance.org/concepts/interest-compounding) | [Revealjs version](https://financialmarkets.github.io/5mf_apr_ear/)
 
+[Continuous Compounding, the Hard Way](https://financial-education.github.io/continuous_compounding_the_hard_way/)
+
 [Loan Term, Rate, and Payment](https://financialmarkets.github.io/5mf_loan_term_vs_payment/)
 
 ## Stock and Bond Valuation
