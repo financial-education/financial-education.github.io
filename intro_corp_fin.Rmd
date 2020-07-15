@@ -29,6 +29,8 @@ output: html_document
 
 [Financial Ratios](https://www.5minutefinance.org/concepts/financial-ratios) | [Revealjs Version](http://financialmarkets.github.io/5mf_Financial_Ratios)
 
+[The DuPont Identity](https://financial-education.github.io/DuPont_Identity)
+
 [Firm Growth Rates (SGR and IGR) and EFN](https://financial-education.github.io/growth_rates_and_EFN/)
 
 
