@@ -15,6 +15,8 @@ output: html_document
 
 [Duration](https://www.5minutefinance.org/concepts/duration)
 
+[The Duration of a Perpetuity](https://github.com/financial-education/duration_of_a_perpetuity/blob/master/dur_perp.pdf)
+
 [Convexity](https://www.5minutefinance.org/concepts/convexity)
 
 
