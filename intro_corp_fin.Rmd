@@ -3,7 +3,7 @@ title: Intro to Corporate Finance Outline
 output: html_document
 ---
 
-[Course Overview]()
+[Course Overview](financial-education.github.io/undergrad_corporate_finance_course_overview/)
 
 [Practice Problems](https://financial-education.github.io/practice_problems_intro_corporate_finance)
 
