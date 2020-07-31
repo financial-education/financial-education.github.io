@@ -27,7 +27,7 @@ output: html_document
 
 [Operating Cash Flow](https://www.5minutefinance.org/concepts/operating-cash-flow)
 
-[Financial Ratios](https://www.5minutefinance.org/concepts/financial-ratios) | [Revealjs Version](http://financialmarkets.github.io/5mf_Financial_Ratios)
+[Financial Ratios](https://www.5minutefinance.org/concepts/financial-ratios) | [Revealjs Version](http://financialmarkets.github.io/5mf_Financial_Ratios) | [Readthefinance version](https://www.readthefinance.com/financial_ratios/)
 
 [The DuPont Identity](https://financial-education.github.io/DuPont_Identity)
 
