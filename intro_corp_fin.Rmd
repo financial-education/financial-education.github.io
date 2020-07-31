@@ -23,7 +23,7 @@ output: html_document
 
 [Financial Statements and Cash Flow---In Progress](https://financial-education.github.io/financial_statements_and_cash_flow/)
 
-[The Balance Sheet Identity](https://www.5minutefinance.org/concepts/the-balance-sheet-identity)
+[The Balance Sheet Identity](https://www.5minutefinance.org/concepts/the-balance-sheet-identity) | [Readthefinance version](http://www.readthefinance.com/the_balance_sheet_identity/)
 
 [Operating Cash Flow](https://www.5minutefinance.org/concepts/operating-cash-flow)
 
