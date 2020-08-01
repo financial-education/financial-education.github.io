@@ -9,7 +9,7 @@ output: html_document
 
 ## Introduction to Financial Management
 
-[The forms of Business Organization](https://financial-education.github.io/forms_of_business_organization/)
+[The Forms of Business Organization](https://financial-education.github.io/forms_of_business_organization/)
 
 [The Goal of Financial Management](https://www.5minutefinance.org/concepts/goal-of-financial-management) | [Revealjs_version](https://financial-education.github.io/the_goal_of_financial_management/)
 
