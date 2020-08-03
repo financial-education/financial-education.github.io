@@ -36,9 +36,9 @@ output: html_document
 
 ## Valuation of Cash Flows
 
-[Time Value of Money: Single Cash Flows](https://www.5minutefinance.org/concepts/time-value-of-money-single-cash-flows)
+[Time Value of Money: Single Cash Flows](https://www.readthefinance.com/time_value_money_single_cash_flow/) | [Old 5MF](https://www.5minutefinance.org/concepts/time-value-of-money-single-cash-flows)
 
-[Time Value of Money: Multiple Cash Flows](https://www.5minutefinance.org/concepts/time-value-of-money-multiple-cash-flows)
+[Time Value of Money: Multiple Cash Flows](https://www.readthefinance.com/time_value_money_multiple_cash_flows/) | [Old 5MF](https://www.5minutefinance.org/concepts/time-value-of-money-multiple-cash-flows)
 
 [Saving for Retirement](https://financial-education.github.io/saving_for_retirement)
 
