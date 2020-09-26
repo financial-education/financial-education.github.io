@@ -54,6 +54,8 @@ output: html_document
 
 [An Introduction to Bond Valuation](https://www.5minutefinance.org/concepts/an-introduction-to-bond-valuation)
 
+[Calculating Bond Prices and Yields](https://www.readthefinance.com/computing_bond_prices_and_yields/)
+
 ## Capital Budgeting
 
 [Net Present Value and Internal Rate of Return](https://www.5minutefinance.org/concepts/net-present-value-and-internal-rate-of-return)
