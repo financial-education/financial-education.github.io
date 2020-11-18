@@ -19,6 +19,9 @@ navbar:
          - text: "Financial Markets and Institutions"
            href: fin_mkts.html
            icon: fa-building
+         - text: "Finance at the Frontiers"
+           href: frontiers.html
+           icon: fa-rocket
     - text: "Write Your Own or Contribute"
       icon: fa-pencil
       menu:
