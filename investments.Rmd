@@ -60,6 +60,8 @@ output: html_document
 
 [Portfolio Insurance](https://financial-education.github.io/portfolio_insurance/)
 
+[GME Squeeze](https://financial-education.github.io/GME_Squeeze/)
+
 ### Old
 
 [**Under Construction on GitHub** Binomial Option Pricing](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/binomial_option_pricing/binomial_option_pricing.Rmd) Use the financial-education version above.
