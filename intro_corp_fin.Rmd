@@ -23,7 +23,7 @@ output: html_document
 
 [Financial Statements and Cash Flow---In Progress](https://financial-education.github.io/financial_statements_and_cash_flow/)
 
-[The Balance Sheet Identity](https://www.5minutefinance.org/concepts/the-balance-sheet-identity) | [Readthefinance version](http://www.financial-education.github.io/the_balance_sheet_identity/)
+[The Balance Sheet Identity](https://www.5minutefinance.org/concepts/the-balance-sheet-identity) | [Readthefinance version](http://financial-education.github.io/the_balance_sheet_identity/)
 
 [Operating Cash Flow](https://www.5minutefinance.org/concepts/operating-cash-flow)
 
@@ -36,9 +36,9 @@ output: html_document
 
 ## Valuation of Cash Flows
 
-[Time Value of Money: Single Cash Flows](https://www.financial-education.github.io/time_value_money_single_cash_flow/) | [Old 5MF](https://www.5minutefinance.org/concepts/time-value-of-money-single-cash-flows)
+[Time Value of Money: Single Cash Flows](https://financial-education.github.io/time_value_money_single_cash_flow/) | [Old 5MF](https://www.5minutefinance.org/concepts/time-value-of-money-single-cash-flows)
 
-[Time Value of Money: Multiple Cash Flows](https://www.financial-education.github.io/time_value_money_multiple_cash_flows/) | [Old 5MF](https://www.5minutefinance.org/concepts/time-value-of-money-multiple-cash-flows)
+[Time Value of Money: Multiple Cash Flows](https://financial-education.github.io/time_value_money_multiple_cash_flows/) | [Old 5MF](https://www.5minutefinance.org/concepts/time-value-of-money-multiple-cash-flows)
 
 [Saving for Retirement](https://financial-education.github.io/saving_for_retirement)
 
@@ -54,7 +54,7 @@ output: html_document
 
 [An Introduction to Bond Valuation](https://www.5minutefinance.org/concepts/an-introduction-to-bond-valuation)
 
-[Calculating Bond Prices and Yields](https://www.financial-education.github.io/computing_bond_prices_and_yields/)
+[Calculating Bond Prices and Yields](https://financial-education.github.io/computing_bond_prices_and_yields/)
 
 ## Capital Budgeting
 
