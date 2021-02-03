@@ -3,6 +3,7 @@ title: Investments
 output: html_document
 ---
 
+[Why We Have Free Markets](https://financial-education.github.io/why_we_have_free_markets)
 
 ## How Securities Trading Works 
 
