@@ -22,6 +22,10 @@ navbar:
          - text: "Finance at the Frontiers"
            href: frontiers.html
            icon: fa-rocket
+         - text: "External Resources"
+           href: external.html
+           icon: fa-shopping-cart
+
     - text: "Write Your Own or Contribute"
       icon: fa-pencil
       menu:
