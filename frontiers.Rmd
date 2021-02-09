@@ -1,0 +1,15 @@
+---
+title: Finance at the Frontiers
+output: html_document
+---
+
+## Funding Biomedical Research
+
+[Securitization and the Cancer Megafund](https://matt-brigida.github.io/securitization-presentation-abridged/)
+
+
+## Financing Space Industry
+
+
+
+
