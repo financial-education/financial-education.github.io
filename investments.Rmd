@@ -9,7 +9,7 @@ output: html_document
 
 ## How Securities Trading Works 
 
-[The Limit Order Book](http://www.5minutefinance.org/concepts/the-limit-order-book)
+[The Limit Order Book](http://www.5minutefinance.org/concepts/the-limit-order-book) | [revealjs version](https://financialmarkets.github.io/5mf_limit-order-book/)
 
 [Short Selling Stock](https://www.5minutefinance.org/concepts/short-selling-stock)
 
