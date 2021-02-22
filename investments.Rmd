@@ -21,6 +21,8 @@ output: html_document
 
 [Payment for Order Flow](https://financial-education.github.io/payment_for_order_flow/)
 
+[Stock Margin](https://financial-education.github.io/stock_margin/)
+
 ## Equity
 
 [Intro to Stock Investments](https://www.5minutefinance.org/concepts/an-introduction-to-stock-investments)
