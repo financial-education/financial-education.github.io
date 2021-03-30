@@ -53,6 +53,10 @@ output: html_document
 
 [Intro to Option and Stock Strategies](https://www.5minutefinance.org/concepts/an-introduction-to-option-and-stock-strategies)
 
+[Put-Call Parity](https://financial-education.github.io/put_call_parity/)
+
+[Option Like Securities](https://financial-education.github.io/option_like_securities/)
+
 [**Under Construction on GitHub** Option Straddles](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/option_straddle/option_straddle.Rmd)
 
 [The Greeks](https://www.5minutefinance.org/concepts/the-greeks)
