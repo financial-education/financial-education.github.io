@@ -93,7 +93,7 @@ output: html_document
 
 ## Swaps
 
-[**Under Construction on GitHub** Interest Rate Swaps](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Derivatives/Interest_Rate_Swaps/IRS.Rmd)
+[Interest Rate Swaps](https://financial-education.github.io/5mf_Interest_Rate_Swaps/)
 
 ## Portfolio Theory
 
