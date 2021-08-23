@@ -19,6 +19,12 @@ navbar:
          - text: "Financial Markets and Institutions"
            href: fin_mkts.html
            icon: fa-building
+         - text: "Machine Learning and Artificial Intelligence"
+           href: ml_ai.html
+           icon: fa-cog
+         - text: "Decentralized Finance and Crypto"
+           href: crypto.html
+           icon: fa-btc
          - text: "Finance at the Frontiers"
            href: frontiers.html
            icon: fa-rocket
