@@ -1,0 +1,6 @@
+---
+title: Machine Learning and Artificial Intelligence in Finance
+output: html_document
+---
+
+[Index Type Models](https://financial-education.github.io/ML_Index_Models/)
