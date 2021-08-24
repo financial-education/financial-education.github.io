@@ -3,6 +3,12 @@ title: Investments
 output: html_document
 ---
 
+# Data
+
+[The Interactive Brokers API](https://financial-education.github.io/IB_API/)
+
+# Intro
+
 [Why We Have Free Markets](https://financial-education.github.io/why_we_have_free_markets)
 
 [Stock Indices](https://financial-education.github.io/stock-indices/)
