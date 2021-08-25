@@ -1,0 +1,6 @@
+---
+title: Python for Finance Course
+output: html_document
+---
+
+[The course outline with links to all Colab notebooks and videos is here.](https://financial-education.github.io/python_for_finance_outline/)
