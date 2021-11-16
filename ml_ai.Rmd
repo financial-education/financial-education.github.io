@@ -4,3 +4,8 @@ output: html_document
 ---
 
 [Index Type Models](https://financial-education.github.io/ML_Index_Models/)
+
+
+## Econometrics
+
+[Simple Event Study](https://financial-education.github.io/simple_event_study/)
