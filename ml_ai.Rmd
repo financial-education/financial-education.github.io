@@ -9,3 +9,8 @@ output: html_document
 ## Econometrics
 
 [Simple Event Study](https://financial-education.github.io/simple_event_study/)
+
+
+## Other
+
+[Quantlib](https://financial-education.github.io/quantlib_intro/)
