@@ -5,6 +5,8 @@ output: html_document
 
 [Index Type Models](https://financial-education.github.io/ML_Index_Models/)
 
+[Deep Neural Net Option Pricing](https://financial-education.github.io/neural_net_option_pricing/)
+
 
 ## Econometrics
 
