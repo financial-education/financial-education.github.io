@@ -31,7 +31,7 @@ navbar:
          - text: "Finance at the Frontiers"
            href: frontiers.html
            icon: fa-rocket
-         - text: "External Resources"
+         - text: "My Research and Other External Resources"
            href: external.html
            icon: fa-shopping-cart
 
