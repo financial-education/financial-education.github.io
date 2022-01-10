@@ -11,7 +11,7 @@ output: html_document
 
 [The Forms of Business Organization](https://financial-education.github.io/forms_of_business_organization/)
 
-[The Goal of Financial Management](https://www.5minutefinance.org/concepts/goal-of-financial-management) | [Revealjs_version](https://financial-education.github.io/the_goal_of_financial_management/)
+[The Goal of Financial Management](https://financial-education.github.io/the_goal_of_financial_management/)
 
 [The Agency Problem](https://financial-education.github.io/agency-problem-org/)
 
@@ -19,15 +19,15 @@ output: html_document
 
 ## Financial Statements and Cash Flows
 
-[An Introduction to Financial Statements](https://www.5minutefinance.org/concepts/an-introduction-to-financial-statements)
+[An Introduction to Financial Statements]()
 
 [Financial Statements and Cash Flow---In Progress](https://financial-education.github.io/financial_statements_and_cash_flow/)
 
-[The Balance Sheet Identity](https://www.5minutefinance.org/concepts/the-balance-sheet-identity) | [Readthefinance version](http://financial-education.github.io/the_balance_sheet_identity/)
+[The Balance Sheet Identity](http://financial-education.github.io/the_balance_sheet_identity/)
 
-[Operating Cash Flow](https://www.5minutefinance.org/concepts/operating-cash-flow)
+[Operating Cash Flow]()
 
-[Financial Ratios](https://www.5minutefinance.org/concepts/financial-ratios) | [Revealjs Version](http://financialmarkets.github.io/5mf_Financial_Ratios) | [Readthefinance version](https://financial-education.github.io/financial_ratios/)
+[Financial Ratios](http://financialmarkets.github.io/5mf_Financial_Ratios) | [Readthefinance version](https://financial-education.github.io/financial_ratios/)
 
 [The DuPont Identity](https://financial-education.github.io/DuPont_Identity)
 
@@ -36,13 +36,13 @@ output: html_document
 
 ## Valuation of Cash Flows
 
-[Time Value of Money: Single Cash Flows](https://financial-education.github.io/time_value_money_single_cash_flow/) | [Old 5MF](https://www.5minutefinance.org/concepts/time-value-of-money-single-cash-flows)
+[Time Value of Money: Single Cash Flows](https://financial-education.github.io/time_value_money_single_cash_flow/)
 
-[Time Value of Money: Multiple Cash Flows](https://financial-education.github.io/time_value_money_multiple_cash_flows/) | [Old 5MF](https://www.5minutefinance.org/concepts/time-value-of-money-multiple-cash-flows)
+[Time Value of Money: Multiple Cash Flows](https://financial-education.github.io/time_value_money_multiple_cash_flows/)
 
 [Saving for Retirement](https://financial-education.github.io/saving_for_retirement)
 
-[Interest Compounding: EAR and APR](https://www.5minutefinance.org/concepts/interest-compounding) | [Revealjs version](https://financialmarkets.github.io/5mf_apr_ear/)
+[Interest Compounding: EAR and APR](https://financialmarkets.github.io/5mf_apr_ear/)
 
 [Continuous Compounding, the Hard Way](https://financial-education.github.io/continuous_compounding_the_hard_way/)
 
@@ -50,17 +50,17 @@ output: html_document
 
 ## Stock and Bond Valuation
 
-[An Introduction to Stock Valuation](https://financial-education.github.io/intro_stock_valuation/) | [Old 5MF](https://www.5minutefinance.org/concepts/an-introduction-to-stock-valuation)
+[An Introduction to Stock Valuation](https://financial-education.github.io/intro_stock_valuation/)
 
-[An Introduction to Bond Valuation](https://www.5minutefinance.org/concepts/an-introduction-to-bond-valuation)
+[An Introduction to Bond Valuation]()
 
 [Calculating Bond Prices and Yields](https://financial-education.github.io/computing_bond_prices_and_yields/)
 
 ## Capital Budgeting
 
-[Net Present Value and Internal Rate of Return](https://www.5minutefinance.org/concepts/net-present-value-and-internal-rate-of-return)
+[Net Present Value and Internal Rate of Return]()
 
-[Modified Internal Rate of Return](https://micfm.shinyapps.io/MIRR) | [Mobile Friendly Version](https://micfm.shinyapps.io/MIRR_mobile) *not yet on 5MF*
+[Modified Internal Rate of Return]()
 
 [Other Investment Decision Rules](https://financialmarkets.github.io/5mf_other_investment_decision_rules/)
 
@@ -72,16 +72,16 @@ output: html_document
 
 [Newer CAPM Presentation](http://financial-education.github.io/the_CAPM_intro_version)
 
-[The Capital Asset Pricing Model](https://www.5minutefinance.org/concepts/the-capital-asset-pricing-model)
+[The Capital Asset Pricing Model]()
 
 ## Capital Market Financing
 
-[Weighted-Average Cost of Capital](https://www.5minutefinance.org/concepts/the-weighted-average-cost-of-capital)
+[Weighted-Average Cost of Capital]()
 
-[Capital Structure](https://www.5minutefinance.org/concepts/capital-structure) | [Newer RevealJS Version](https://matt-brigida.github.io/5mf-capital-structure/)
+[Capital Structure](https://matt-brigida.github.io/5mf-capital-structure/)
 
-[The Modigliani and Miller Propositions](https://www.5minutefinance.org/concepts/modigliani-and-miller-propositions)
+[The Modigliani and Miller Propositions]()
 
-[Dividends](https://www.5minutefinance.org/concepts/dividends)
+[Dividends]()
 
 [**Under Construction on GitHub**  Stock Splits](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Equity/stock_splits/stock_splits.Rmd)
