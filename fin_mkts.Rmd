@@ -13,11 +13,11 @@ output: html_document
 
 ## Interest Rate Risk
 
-[Duration](https://www.5minutefinance.org/concepts/duration)
+[Duration]()
 
 [The Duration of a Perpetuity](https://github.com/financial-education/duration_of_a_perpetuity/blob/master/dur_perp.pdf)
 
-[Convexity](https://www.5minutefinance.org/concepts/convexity)
+[Convexity]()
 
 
 ## Exchange Traded Volatility

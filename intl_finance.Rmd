@@ -8,7 +8,7 @@ output: html_document
 
 ## FX Markets
 
-[FX Markets](https://www.5minutefinance.org/concepts/foreign-exchange-markets)
+[FX Markets]()
 
 ## How Exchange Rates are Determined
 
@@ -18,7 +18,7 @@ output: html_document
 
 ## Arbitrage in Foreign Exchange Markets
 
-[Locational, Triangular, and Covered Interest Arbitrage](https://www.5minutefinance.org/concepts/foreign-exchange-arbitrage)
+[Locational, Triangular, and Covered Interest Arbitrage]()
 
 ## Interest Rate Parity
 
