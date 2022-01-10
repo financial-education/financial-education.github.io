@@ -4,6 +4,8 @@ date: ""
 output: html_document
 ---
 
+*There are many empty links at the moment because a server went down (5minuefinance.org).  It also hosted many of the web apps (which will also be down).  I will try and push is all to a new server but it will take a while.*
+
 This site organizes a set of interactive presentations used in common undergraduate finance courses. To incorporate these presentations into your course, simply place a link in Blackboard to the course outline. 
 
 To see a course outline with presentation links, use the ‘Courses’ dropdown box above. ​I am constantly adding materials, and some topics may not yet be covered. In some cases, you will see links to concepts that are "under construction" in GitHub.  Feel free to contribute to these presentations or build your own. 
