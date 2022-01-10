@@ -15,11 +15,11 @@ output: html_document
 
 ## How Securities Trading Works 
 
-[The Limit Order Book](http://www.5minutefinance.org/concepts/the-limit-order-book) | [revealjs version](https://financialmarkets.github.io/5mf_limit-order-book/)
+[The Limit Order Book](https://financialmarkets.github.io/5mf_limit-order-book/)
 
 [The Only Game in Town](https://financial-education.github.io/only_game_in_town/)
 
-[Short Selling Stock](https://www.5minutefinance.org/concepts/short-selling-stock)
+[Short Selling Stock]()
 
 [**Under Construction on GitHub** Trading on Margin](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Trading_and_Market_Structure/Margin/margin.Rmd)
 
@@ -31,33 +31,33 @@ output: html_document
 
 ## Equity
 
-[Intro to Stock Investments](https://www.5minutefinance.org/concepts/an-introduction-to-stock-investments)
+[Intro to Stock Investments]()
 
-[Intro Stock Markets](https://www.5minutefinance.org/concepts/an-introduction-stock-markets)
+[Intro Stock Markets]()
 
-[ETFs](https://www.5minutefinance.org/concepts/exchange-traded-funds)
+[ETFs]()
 
-[Leveraged ETFs](https://www.5minutefinance.org/concepts/leveraged-exchange-traded-funds)
+[Leveraged ETFs]()
 
 ## Debt
 
-[Duration](https://www.5minutefinance.org/concepts/duration)
+[Duration]()
 
-[Convexity](https://www.5minutefinance.org/concepts/convexity)
+[Convexity]()
 
-[What is YTM?](https://www.5minutefinance.org/concepts/for-what-is-the-yield-to-maturity-used)
+[What is YTM?]()
 
-[ETNs](https://www.5minutefinance.org/concepts/exchange-traded-notes)
+[ETNs]()
 
 ## Options
 
-[Black-Scholes](http://www.5minutefinance.org/concepts/black-scholes)
+[Black-Scholes]()
 
 [Single Period Binomial Option Pricing](https://financial-education.github.io/single_period_binomial_option_pricing)
 
-[Intro to Stock Options](https://www.5minutefinance.org/concepts/an-introduction-to-stock-options)
+[Intro to Stock Options]()
 
-[Intro to Option and Stock Strategies](https://www.5minutefinance.org/concepts/an-introduction-to-option-and-stock-strategies)
+[Intro to Option and Stock Strategies]()
 
 [Put-Call Parity](https://financial-education.github.io/put_call_parity/)
 
@@ -67,15 +67,15 @@ output: html_document
 
 [**Under Construction on GitHub** Option Straddles](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/option_straddle/option_straddle.Rmd)
 
-[The Greeks](https://www.5minutefinance.org/concepts/the-greeks)
+[The Greeks]()
 
-[Varying Option Volatility](https://www.5minutefinance.org/concepts/varying-option-volatility)
+[Varying Option Volatility]()
 
 [**Under Construction on GitHub** Time-Varying Option Volatility](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/time_varying_IV/stoch_vol.Rmd)
 
 [Pricing via Monte Carlo (revealjs)](https://financial-education.github.io/intro_monte_carlo_methods_in_finance)
 
-[Pricing via Monte Carlo](https://www.5minutefinance.org/concepts/an-introduction-to-the-uses-of-monte-carlo-methods-in-finance)
+[Pricing via Monte Carlo]()
 
 [Portfolio Insurance](https://financial-education.github.io/portfolio_insurance/)
 
@@ -103,21 +103,21 @@ output: html_document
 
 ## Portfolio Theory
 
-[Intro to the Correlation Coefficient](https://www.5minutefinance.org/concepts/an-introduction-to-correlation-coefficient)
+[Intro to the Correlation Coefficient]()
 
-[Mean-Variance Portfolio Optimization](https://www.5minutefinance.org/concepts/mean-variance-portfolio-optimization)
+[Mean-Variance Portfolio Optimization]()
 
-[Portfolio Performance Measures](http://www.5minutefinance.org/concepts/an-introduction-to-portfolio-performance-measures)
+[Portfolio Performance Measures]()
 
-[The Capital Asset Pricing Model](https://www.5minutefinance.org/concepts/the-capital-asset-pricing-model)
+[The Capital Asset Pricing Model]()
 
-[The Pairs Trade](https://www.5minutefinance.org/concepts/the-pairs-trade)
+[The Pairs Trade]()
 
 ## Commodity Markets
 
-[Cross Hedging](https://www.5minutefinance.org/concepts/cross-hedging)
+[Cross Hedging]()
 
-[Crude Oil Markets](https://www.5minutefinance.org/concepts/crude-oil-markets)
+[Crude Oil Markets]()
 
 [**Under Construction on GitHub** Natural Gas Markets](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Commodities/nat_gas_markets/nat_gas_markets.Rmd)
 
