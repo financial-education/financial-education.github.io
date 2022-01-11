@@ -15,7 +15,9 @@ output: html_document
 
 ## How Securities Trading Works 
 
-[The Limit Order Book](https://financialmarkets.github.io/5mf_limit-order-book/)
+[The Limit Order Book](https://financial-education.github.io/5mf_limit-order-book/)
+
+[Stop Orders](https://financial-education.github.io/stop_orders/)
 
 [The Only Game in Town](https://financial-education.github.io/only_game_in_town/)
 
