@@ -43,7 +43,7 @@ output: html_document
 
 ## Debt
 
-[Duration]()
+[Intro to Duration](https://financial-education.github.io/intro_to_duration/)
 
 [Convexity]()
 
