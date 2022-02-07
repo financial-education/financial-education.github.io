@@ -17,7 +17,7 @@ output: html_document
 
 [The Duration of a Perpetuity](https://github.com/financial-education/duration_of_a_perpetuity/blob/master/dur_perp.pdf)
 
-[Convexity]()
+[Convexity](https://financial-education.github.io/convexity/)
 
 
 ## Exchange Traded Volatility
