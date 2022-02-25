@@ -126,3 +126,5 @@ output: html_document
 ## Other
 
 [Student Investment Fund Plan](https://financial-education.github.io/Student_Investment_Fund_Plan/)
+
+[Coinbase API](https://financial-education.github.io/coinbase_api/)
