@@ -76,7 +76,7 @@ output: html_document
 
 ## Capital Market Financing
 
-[Weighted-Average Cost of Capital]()
+[Weighted-Average Cost of Capital](https://financial-education.github.io/wacc/)
 
 [Capital Structure](https://matt-brigida.github.io/5mf-capital-structure/)
 
