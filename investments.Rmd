@@ -43,9 +43,11 @@ output: html_document
 
 ## Debt
 
+<!--- Duration and convexity are in the financial markets course-----
 [Intro to Duration](https://financial-education.github.io/intro_to_duration/)
 
 [Convexity]()
+-->
 
 [What is YTM?]()
 

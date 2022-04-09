@@ -19,7 +19,7 @@ output: html_document
 
 ## Financial Statements and Cash Flows
 
-[An Introduction to Financial Statements]()
+[An Introduction to Financial Statements](https://financial-education.github.io/intro_to_financial_statements/)
 
 [Financial Statements and Cash Flow---In Progress](https://financial-education.github.io/financial_statements_and_cash_flow/)
 
