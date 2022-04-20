@@ -58,7 +58,7 @@ output: html_document
 
 ## Capital Budgeting
 
-[Net Present Value and Internal Rate of Return]()
+[Net Present Value and Internal Rate of Return](https://financial-education.github.io/npv_and_irr/)
 
 [Modified Internal Rate of Return]()
 
