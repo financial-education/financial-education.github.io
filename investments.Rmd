@@ -13,6 +13,8 @@ output: html_document
 
 [Stock Indices](https://financial-education.github.io/stock-indices/)
 
+[Historical Risk and Return by Asset Class](https://financial-education.github.io/relative_performance_asset_classes/)
+
 ## How Securities Trading Works 
 
 [The Limit Order Book](https://financial-education.github.io/5mf_limit-order-book/)

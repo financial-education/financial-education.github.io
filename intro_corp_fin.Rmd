@@ -66,7 +66,7 @@ output: html_document
 
 ## Risk and Return
 
-[**Under Construction on GitHub**  Historical Risk and Return by Asset Class](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Risk/relative_performance_asset_classes/relative_performace.Rmd)
+[Historical Risk and Return by Asset Class](https://financial-education.github.io/relative_performance_asset_classes/)
 
 [Overview of Capital Market History](https://financial-education.github.io/overview_of_capital_market_history)
 
