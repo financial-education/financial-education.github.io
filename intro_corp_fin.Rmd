@@ -82,6 +82,6 @@ output: html_document
 
 [The Modigliani and Miller Propositions]()
 
-[Dividends]()
+[Dividends](https://financial-education.github.io/intro_dividends/)
 
 [**Under Construction on GitHub**  Stock Splits](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Equity/stock_splits/stock_splits.Rmd)
