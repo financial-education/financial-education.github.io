@@ -7,6 +7,7 @@ output: html_document
 
 [Deep Neural Net Option Pricing](https://financial-education.github.io/neural_net_option_pricing/)
 
+[JAX (in progress)](https://financial-education.github.io/JAX/)
 
 ## Econometrics
 
