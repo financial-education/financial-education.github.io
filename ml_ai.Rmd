@@ -9,6 +9,8 @@ output: html_document
 
 [JAX (in progress)](https://financial-education.github.io/JAX/)
 
+[Rcpp](https://financial-education.github.io/Rcpp/)
+
 ## Econometrics
 
 [Simple Event Study](https://financial-education.github.io/simple_event_study/)
