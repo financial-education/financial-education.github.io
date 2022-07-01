@@ -19,3 +19,5 @@ output: html_document
 ## Other
 
 [Quantlib](https://financial-education.github.io/quantlib_intro/)
+
+[Getting Stock Returns](https://financial-education.github.io/getting_data/)
