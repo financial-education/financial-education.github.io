@@ -15,6 +15,8 @@ output: html_document
 
 [Simple Event Study](https://financial-education.github.io/simple_event_study/)
 
+[The Kalman Filter](https://financial-education.github.io/kalman_filter/)
+
 
 ## Other
 
