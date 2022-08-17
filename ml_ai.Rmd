@@ -17,6 +17,8 @@ output: html_document
 
 [The Kalman Filter](https://financial-education.github.io/kalman_filter/)
 
+[The Leverage Effect](https://financial-education.github.io/leverage_effect/)
+
 
 ## Other
 
