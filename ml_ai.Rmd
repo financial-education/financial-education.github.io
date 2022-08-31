@@ -25,3 +25,5 @@ output: html_document
 [Quantlib](https://financial-education.github.io/quantlib_intro/)
 
 [Getting Stock Returns](https://financial-education.github.io/getting_data/)
+
+[A Survey of AI in Finance](https://financial-education.github.io/survey_ai_finance/)
