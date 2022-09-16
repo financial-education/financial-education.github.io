@@ -11,6 +11,8 @@ output: html_document
 
 [Rcpp](https://financial-education.github.io/Rcpp/)
 
+[Load Forecasting in Numpyro](https://financial-education.github.io/numpyro_load_forecasting/)
+
 ## Econometrics
 
 [Simple Event Study](https://financial-education.github.io/simple_event_study/)
