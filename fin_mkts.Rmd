@@ -11,6 +11,8 @@ output: html_document
 
 [The Yield Curve and Recessions](https://financial-education.github.io/the_yield_curve_and_recessions)
 
+[Predicting Recession with the Yield Curve](https://financial-education.github.io/predicting_recessions_yield_curve/)
+
 [For What is the Yield-to-Maturity Used?](https://financial-education.github.io/for_what_ytm_used/)
 
 ## Interest Rate Risk
