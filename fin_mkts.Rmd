@@ -23,6 +23,8 @@ output: html_document
 
 [Convexity](https://financial-education.github.io/convexity/)
 
+[Interest Rate Caps](https://financial-education.github.io/interest_rate_caps/)
+
 
 ## Exchange Traded Volatility
 
