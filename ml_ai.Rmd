@@ -23,6 +23,8 @@ output: html_document
 
 [Error Correction Models](https://financial-education.github.io/error_correction_models/)
 
+[Monte Carlo](https://financial-education.github.io/monte_carlo/)
+
 
 ## Other
 
