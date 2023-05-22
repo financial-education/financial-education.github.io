@@ -13,6 +13,8 @@ output: html_document
 
 [Load Forecasting in Numpyro](https://financial-education.github.io/numpyro_load_forecasting/)
 
+[Gaussian Regression](https://financial-education.github.io/gaussian_regression/)
+
 ## Econometrics
 
 [Simple Event Study](https://financial-education.github.io/simple_event_study/)
