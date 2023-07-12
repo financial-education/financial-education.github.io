@@ -27,6 +27,8 @@ output: html_document
 
 [Monte Carlo](https://financial-education.github.io/monte_carlo/)
 
+[Test for a Change in Slope in a Linear Regression](https://financial-education.github.io/test_change_slope_linear_reg/)
+
 
 ## Other
 
