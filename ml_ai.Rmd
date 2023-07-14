@@ -41,3 +41,5 @@ output: html_document
 [NYU Call Report Dataset](https://financial-education.github.io/nyu_call_report_dataset/) 
 
 [PySpark](https://financial-education.github.io/pyspark/)
+
+[Lisp-Stat](https://financial-education.github.io/lisp-stat-intro/)
