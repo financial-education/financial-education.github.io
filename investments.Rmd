@@ -115,7 +115,9 @@ output: html_document
 
 [Intro to the Correlation Coefficient]()
 
-[Mean-Variance Portfolio Optimization]()
+[Mean-Variance Portfolio Optimization](https://brigida.shinyapps.io/port_theory_chap_3/)
+
+[Mean-Variance Portfolio Optimization (new revealjs in progress)](https://matt-brigida.github.io/fin_532_markowitz/)
 
 [Portfolio Performance Measures]()
 
