@@ -127,7 +127,7 @@ output: html_document
 
 ## Commodity Markets
 
-[Cross Hedging]()
+[Cross Hedging](https://ztranche.com/cross_hedging)
 
 [Crude Oil Markets]()
 
