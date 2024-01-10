@@ -9,6 +9,12 @@ output: html_document
 
 [Deposit Betas](https://financial-education.github.io/deposit_beta/)
 
+## Interest Rates
+
+[Loanable Funds](https://financial-education.github.io/loanable_funds/)
+
+[Factors Affecting Debt Security Yields](https://financial-education.github.io/factors_affecting_debt_yields)
+
 ## Interest Rate Structure
 
 [The Term Structure of Interest Rates](https://financial-education.github.io/term_structure_interest_rates/)
