@@ -65,6 +65,8 @@ output: html_document
 
 [Intro to Option and Stock Strategies]()
 
+[The Collar Option Spread](https://financial-education.github.io/Collar_option_spread)
+
 [Calendar Stock Option Spreads](https://financial-education.github.io/calendar_stock_option_spreads/)
 
 [Put-Call Parity](https://financial-education.github.io/put_call_parity/)
