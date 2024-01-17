@@ -5,10 +5,6 @@ output: html_document
 
 [An Overview of Financial Markets and Institutions](https://financial-education.github.io/overview_fin_markets_inst/)
 
-## Financial Institutions
-
-[Deposit Betas](https://financial-education.github.io/deposit_beta/)
-
 ## Interest Rates
 
 [Loanable Funds](https://financial-education.github.io/loanable_funds/)
@@ -43,3 +39,6 @@ output: html_document
 [The VVIX](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/The_VVIX/vvix.Rmd)
 
 
+## Financial Institutions Topics
+
+[Deposit Betas](https://financial-education.github.io/deposit_beta/)
