@@ -28,6 +28,9 @@ navbar:
          - text: "Decentralized Finance and Crypto"
            href: crypto.html
            icon: fa-btc
+         - text: "Energy"
+           href: energy.html
+           icon: 
          - text: "Finance at the Frontiers"
            href: frontiers.html
            icon: fa-rocket
