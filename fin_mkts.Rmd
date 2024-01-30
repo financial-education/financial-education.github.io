@@ -27,9 +27,9 @@ output: html_document
 
 ## Credit Markets
 
-[Short-term Debt Markets]()
+[Short-term Credit Markets]()
 
-[Long-term Debt Markets](https://financial-education.github.io/long_term_debt_markets/)
+[Long-term Credit Markets](https://financial-education.github.io/long_term_debt_markets/)
 
 ## Interest Rate Risk
 
