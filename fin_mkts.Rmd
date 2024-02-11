@@ -25,6 +25,8 @@ output: html_document
 
 [An Overview of the Federal Reserve System](https://financial-education.github.io/overview_fed_reserve_system/)
 
+[Implementing Monetary Policy](https://financial-education.github.io/implementing_monetary_policy/)
+
 ## Credit Markets
 
 [Short-term Credit Markets]()
