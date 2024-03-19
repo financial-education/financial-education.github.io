@@ -33,6 +33,8 @@ output: html_document
 
 [Long-term Credit Markets](https://financial-education.github.io/long_term_debt_markets/)
 
+[Mortgage Markets](https://financial-education.github.io/mortgage_markets/)
+
 ## Interest Rate Risk
 
 [Intro to Duration](https://financial-education.github.io/intro_to_duration/)
