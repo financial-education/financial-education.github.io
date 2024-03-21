@@ -35,6 +35,8 @@ output: html_document
 
 [Mortgage Markets](https://financial-education.github.io/mortgage_markets/)
 
+[Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
+
 ## Interest Rate Risk
 
 [Intro to Duration](https://financial-education.github.io/intro_to_duration/)
