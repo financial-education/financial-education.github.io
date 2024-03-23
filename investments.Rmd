@@ -79,7 +79,7 @@ output: html_document
 
 [The Greeks](https://financial-education.github.io/greeks) 
 
-[Varying Option Volatility]()
+[Varying Option Volatility](https://financial-education.github.io/time_varying_volatility/)
 
 [**Under Construction on GitHub** Time-Varying Option Volatility](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/time_varying_IV/stoch_vol.Rmd)
 
