@@ -29,7 +29,7 @@ output: html_document
 
 ## Credit Markets
 
-[Short-term Credit Markets]()
+[Short-term Credit Markets](https://financial-education.github.io/money_markets/)
 
 [Long-term Credit Markets](https://financial-education.github.io/long_term_debt_markets/)
 
