@@ -77,7 +77,7 @@ output: html_document
 
 [**Under Construction on GitHub** Option Straddles](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/option_straddle/option_straddle.Rmd)
 
-[The Greeks](https://financial-education.github.io/greeks) 
+[The Greeks](https://ztranche.com/investments/options/greeks/) 
 
 [Varying Option Volatility](https://financial-education.github.io/time_varying_volatility/)
 
