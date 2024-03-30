@@ -35,7 +35,11 @@ output: html_document
 
 [Mortgage Markets](https://financial-education.github.io/mortgage_markets/)
 
+## Securitization
+
 [Securitization](https://matt-brigida.github.io/securitization-presentation-abridged/)
+
+[Synthetic CDOs](https://github.com/financial-education/scdo_pres_pdf/blob/master/scdo_presentation.pdf)
 
 ## Interest Rate Risk
 
