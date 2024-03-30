@@ -7,6 +7,10 @@ output: html_document
 
 [Credit Default Swaps and Bank Safety](https://matt-brigida.github.io/cds_paper_presentation/)
 
+# Other Apps
+
+[Housing Cost App (error - ok locally but wont render on server)](https://ztranche.com/other/housing_cost_app)
+
 # Current Events
 
 [Implications of April 6 2022 FOMC Announcement](https://financial-education.github.io/fomc_minutes_released_4_6_2022/)
