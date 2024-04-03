@@ -119,7 +119,7 @@ output: html_document
 
 [Intro to the Correlation Coefficient]()
 
-[Mean-Variance Portfolio Optimization](https://brigida.shinyapps.io/port_theory_chap_3/)
+[Mean-Variance Portfolio Optimization](https://ztranche.com/portfolio_theory/chapter3/#Portfolio_Frontier_with_Two_Risky_Assets_and_Varying_Correlation)
 
 [Mean-Variance Portfolio Optimization (new revealjs in progress)](https://matt-brigida.github.io/fin_532_markowitz/)
 
