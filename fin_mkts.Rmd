@@ -51,6 +51,9 @@ output: html_document
 
 [Interest Rate Caps](https://financial-education.github.io/interest_rate_caps/)
 
+## Hedging Interest Rate Risk
+
+[Interest Rate Swaps](https://financial-education.github.io/5mf_Interest_Rate_Swaps/)
 
 ## Exchange Traded Volatility
 
