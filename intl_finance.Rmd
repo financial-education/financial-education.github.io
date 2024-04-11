@@ -18,7 +18,7 @@ output: html_document
 
 ## Arbitrage in Foreign Exchange Markets
 
-[Locational, Triangular, and Covered Interest Arbitrage]()
+[Locational, Triangular, and Covered Interest Arbitrage](https://ztranche.com/intl_finance/fx_arb/)
 
 ## Interest Rate Parity
 
