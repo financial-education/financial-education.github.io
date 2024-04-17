@@ -31,7 +31,7 @@ navbar:
          - text: "Energy"
            href: energy.html
            icon: 
-         - text: "Finance at the Frontiers"
+         - text: "Personal Finance / Finance at the Frontiers"
            href: frontiers.html
            icon: fa-rocket
          - text: "My Research, Current Events, and External Resources"

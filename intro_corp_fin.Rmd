@@ -80,7 +80,7 @@ output: html_document
 
 [Capital Structure](https://matt-brigida.github.io/5mf-capital-structure/)
 
-[The Modigliani and Miller Propositions]()
+[The Modigliani and Miller Propositions](https://ztranche.com/corporate_finance/MM_propositions/)
 
 [Dividends](https://financial-education.github.io/intro_dividends/)
 

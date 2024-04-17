@@ -1,7 +1,12 @@
 ---
-title: Finance at the Frontiers
+title: Personal Finance and Finance at the Frontiers
 output: html_document
 ---
+
+## Personal Finance
+
+[Housing Cost App](https://ztranche.com/other/housing_cost_app/)
+
 
 ## Funding Biomedical Research
 
