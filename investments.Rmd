@@ -107,7 +107,7 @@ output: html_document
 
 [**Under Construction on GitHub** Futures Pricing](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Derivatives/Pricing_Futures/pricing_futures.Rmd)
 
-[**Under Construction on GitHub** Creating Futures from Options](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/creating_futures_with_options/creating_futures_with_options.Rmd)
+[Creating Futures from Options](https://ztranche.com/investments/options/creating_futures_with_options/)
 
 ## Swaps
 
