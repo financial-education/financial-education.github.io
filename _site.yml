@@ -15,7 +15,7 @@ navbar:
            icon: fa-bar-chart
          - text: "Python for Finance Course"
            href: python.html
-           icon: fa-server	   
+           icon: fa-python	   
          - text: "International Finance"
            href: intl_finance.html
            icon: glyphicon-euro
