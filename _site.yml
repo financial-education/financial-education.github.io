@@ -30,7 +30,7 @@ navbar:
            icon: fa-btc
          - text: "Energy"
            href: energy.html
-           icon: 
+           icon: fa-sun
          - text: "Personal Finance / Finance at the Frontiers"
            href: frontiers.html
            icon: fa-rocket
