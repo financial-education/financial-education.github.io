@@ -27,6 +27,8 @@ output: html_document
 
 [Implementing Monetary Policy](https://financial-education.github.io/implementing_monetary_policy/)
 
+[Fed vs Treasury: Chair of CEA Interview](https://financial-education.github.io/Amazing_CEA_Interview_Fed_Treasury/)
+
 ## Credit Markets
 
 [Short-term Credit Markets](https://financial-education.github.io/money_markets/)
