@@ -64,6 +64,8 @@ output: html_document
 
 [Other Investment Decision Rules](https://financialmarkets.github.io/5mf_other_investment_decision_rules/)
 
+[Real Options in Capital Budgeting Projects](https://financial-education.github.io/capital_budgeting_options/)
+
 ## Risk and Return
 
 [Historical Risk and Return by Asset Class](https://financial-education.github.io/relative_performance_asset_classes/)
