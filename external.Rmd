@@ -20,3 +20,5 @@ output: html_document
 # Good external (created by other people) resources. 
 
 [tech-and-finding-toolkit](https://github.com/KatherineMichel/tech-and-funding-toolkit#finance-extra)
+
+[Pricing Risk](http://web.mit.edu/15.423/test/notes/chapter7.html)  Why bonds with the same default probability may have different prices.
