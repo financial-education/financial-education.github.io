@@ -19,7 +19,7 @@ output: html_document
 
 [Simple Event Study](https://financial-education.github.io/simple_event_study/)
 
-[The Kalman Filter](https://financial-education.github.io/kalman_filter/)
+[The Kalman Filter](https://ztranche.com/ai_econometrics/kalman_filter/)
 
 [The Leverage Effect](https://financial-education.github.io/leverage_effect/)
 
