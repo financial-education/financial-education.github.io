@@ -117,7 +117,7 @@ output: html_document
 
 [Measuring Risk and Value-At-Risk](https://financial-education.github.io/measuring_risk_var/)
 
-[Intro to the Correlation Coefficient]()
+[Intro to the Correlation Coefficient](https://ztranche.com/ai_econometrics/what_is_correlation/)
 
 [Mean-Variance Portfolio Optimization](https://ztranche.com/portfolio_theory/chapter3/#Portfolio_Frontier_with_Two_Risky_Assets_and_Varying_Correlation)
 
