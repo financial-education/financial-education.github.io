@@ -11,11 +11,13 @@ output: html_document
 
 # Other Apps
 
-[Housing Cost App (error - ok locally but wont render on server)](https://ztranche.com/other/housing_cost_app)
+[Housing Cost App](https://ztranche.com/other/housing_cost_app)
 
 # Current Events
 
 [Implications of April 6 2022 FOMC Announcement](https://financial-education.github.io/fomc_minutes_released_4_6_2022/)
+
+[SPY Reaction to 50bps Fed Cut: 9/18/2024](https://financial-education.github.io/fed_sept_18_2024/)
 
 # Good external (created by other people) resources. 
 
