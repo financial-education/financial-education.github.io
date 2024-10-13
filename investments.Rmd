@@ -65,6 +65,8 @@ output: html_document
 
 [The Collar Option Spread](https://financial-education.github.io/Collar_option_spread)
 
+[The Straddle Option Spread](https://ztranche.com/investments/options/option_straddle)
+
 [Calendar Stock Option Spreads](https://financial-education.github.io/calendar_stock_option_spreads/)
 
 [Put-Call Parity](https://financial-education.github.io/put_call_parity/)
@@ -72,8 +74,6 @@ output: html_document
 [Option Like Securities](https://financial-education.github.io/option_like_securities/)
 
 [Bounds on Option Prices](https://financial-education.github.io/bounds_on_option_prices/)
-
-[**Under Construction on GitHub** Option Straddles](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Options/option_straddle/option_straddle.Rmd)
 
 [The Greeks](https://ztranche.com/investments/options/greeks/) 
 
