@@ -25,13 +25,11 @@ output: html_document
 
 [Short Selling Stock](https://financial-education.github.io/short_selling_stock/)
 
-[**Under Construction on GitHub** Trading on Margin](https://github.com/FinancialMarkets/5MinuteFinance/blob/master/Trading_and_Market_Structure/Margin/margin.Rmd)
-
 [Market Depth](https://matt-brigida.github.io/fin_532_market_depth/)
 
 [Payment for Order Flow](https://financial-education.github.io/payment_for_order_flow/)
 
-[Stock Margin](https://financial-education.github.io/stock_margin/)
+[Trading on Margin (Stock)](https://financial-education.github.io/stock_margin/)
 
 ## Equity
 
