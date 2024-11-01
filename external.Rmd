@@ -5,9 +5,11 @@ output: html_document
 
 # My Own Research Presentation
 
+[Time-Varying Volatility of Bank Betas](https://matt-brigida.github.io/tv_vol_bank_beta/)
+
 [Credit Default Swaps and Bank Safety](https://matt-brigida.github.io/cds_paper_presentation/)
 
-[FDIC Work 2024 and Some Teaching Materials](https://financial-education.github.io/fdic_2024_presentation/)
+<!--- [FDIC Work 2024 and Some Teaching Materials](https://financial-education.github.io/fdic_2024_presentation/) -->
 
 # Other Apps
 
