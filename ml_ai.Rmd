@@ -32,6 +32,8 @@ output: html_document
 
 [Test for a Change in Slope in a Linear Regression](https://financial-education.github.io/test_change_slope_linear_reg/)
 
+[Orthogonalizing Variables in a Regression](https://financial-education.github.io/orthogonalizing_variables/)
+
 
 ## Other
 
