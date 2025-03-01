@@ -9,6 +9,8 @@ output: html_document
 
 [Credit Default Swaps and Bank Safety](https://matt-brigida.github.io/cds_paper_presentation/)
 
+[Competitive Adjustment to New Information at High-Frequency: The 2016 Election Results](https://matt-brigida.github.io/Information-Flow-Algorithms-and-the-2016-Election/)
+
 <!--- [FDIC Work 2024 and Some Teaching Materials](https://financial-education.github.io/fdic_2024_presentation/) -->
 
 # Other Apps

@@ -17,6 +17,7 @@ output: html_document
 
 [Feature Attribution with Captum (Option Pricing)](https://matt-brigida.github.io/option_pricing_captum)
 
+[Competitive Adjustment to New Information at High-Frequency: The 2016 Election Results](https://matt-brigida.github.io/Information-Flow-Algorithms-and-the-2016-Election/)
 
 ## Econometrics
 
