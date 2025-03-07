@@ -29,6 +29,8 @@ output: html_document
 
 [Fed vs Treasury: Chair of CEA Interview](https://financial-education.github.io/Amazing_CEA_Interview_Fed_Treasury/)
 
+[DOGE and Really Reducing Spending](https://financial-education.github.io/DOGE_and_reducing_spending/)
+
 ## Credit Markets
 
 [Short-term Credit Markets](https://financial-education.github.io/money_markets/)
